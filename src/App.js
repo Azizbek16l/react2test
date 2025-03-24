@@ -19,6 +19,7 @@ import { Component } from 'react'
   return(
     <div>
       <h2>export </h2>
+      <h3>test qilindi</h3>
     </div>
   )
 }
